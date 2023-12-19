@@ -1,6 +1,6 @@
 package practice2;
 
-import java.util.Scanner; //
+import java.util.Scanner; //두 수의 합을 종료하면 나타내주는 예제
 
 public class ScannerWhile2 {
 
