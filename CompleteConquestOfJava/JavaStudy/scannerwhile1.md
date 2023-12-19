@@ -1,6 +1,6 @@
 package practice2;
 
-import java.util.Scanner; //사용자가 입력한 문자열을 그대로 출력하는 예제
+import java.util.Scanner; //사용자가 입력한 문자열을 그대로 출력하는 예제!
 
 public class ScannerWhile1 {
 
