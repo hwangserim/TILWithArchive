@@ -1,7 +1,7 @@
 package access;
 
 public class Speaker {
-private int volume; //private 접근 제어자 사용
+private int volume; //private 접근 제어자 사용으로 모든 외부 호출을 막음
 
     Speaker(int volume) {
         this.volume = volume;
