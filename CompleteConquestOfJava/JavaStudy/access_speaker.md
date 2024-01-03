@@ -1,7 +1,7 @@
 package access;
 
 public class Speaker {
-int volume;
+private int volume; //private 접근 제어자 사용
 
     Speaker(int volume) {
         this.volume = volume;
