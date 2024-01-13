@@ -9,5 +9,5 @@
 # 💻 강의 💻
 
 - [김영한의 실전 자바 - 입문편](https://github.com/hwangserim/TILWithArchive/tree/main/CompleteConquestOfJava/JavaStudy)
-- [김영한의 실전 자바 - 기본편](https://github.com/hwangserim/TILWithArchive/tree/main/JavaStudy2)
+- [김영한의 실전 자바 - 기본편](https://github.com/hwangserim/TILWithArchive/tree/main/CompleteConquestOfJava/JavaStudy)
 - [김영한의 스프링 입문]()
